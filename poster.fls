@@ -285,12 +285,19 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/blx-natbib.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/blx-natbib.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex-nature/nature.bbx
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex-nature/nature.bbx
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex-nature/nature.cbx
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex-nature/nature.cbx
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.cfg
 INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/beamerthemeCustom.sty
@@ -408,19 +415,18 @@ INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustrat
 INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/poster.nav
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmss12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmss17.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmss17.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmss12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/omllmm.fd
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/omllmm.fd
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmib10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmib10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmib10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi12.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi12.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/omslmsy.fd
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/omslmsy.fd
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmbsy10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmbsy10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmbsy10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
@@ -430,10 +436,9 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam1
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbo10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbo10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbo10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmss17.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmsso17.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmsso17.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmsso12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/ot1lmtt.fd
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/ot1lmtt.fd
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtt12.tfm
@@ -446,34 +451,10 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/fontawesome/FontAwesom
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbo10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmss17.tfm
 INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/logo_uni_graz_4c.jpg
 INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/logo_uni_graz_4c.jpg
 INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/logo_uni_graz_4c.jpg
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmib10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmib10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmib10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmbsy10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmbsy10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmbsy10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbo10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbo10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbo10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtk10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtk10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtk10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmsso17.tfm
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/drawing.png
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/drawing.png
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/drawing.png
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmss17.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmss17.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi12.tfm
@@ -482,62 +463,55 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmsso17.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmsso17.tfm
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/distr-year-1.pdf
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/distr-year-1.pdf
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/distr-year-1.pdf
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/varroa.jpg
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/varroa.jpg
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/varroa.jpg
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/plot_overview_map2.pdf
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/plot_overview_map2.pdf
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/plot_overview_map2.pdf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmsso17.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtt12.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtt12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtt12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmib10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmib10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmbsy10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmbsy10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtk10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtk10.tfm
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/drawing.png
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/drawing.png
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/drawing.png
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/distr-year-1.pdf
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/distr-year-1.pdf
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/distr-year-1.pdf
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/varroa.jpg
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/varroa.jpg
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/varroa.jpg
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/plot_overview_map2.pdf
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/plot_overview_map2.pdf
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/plot_overview_map2.pdf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi12.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi12.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtt12.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtt12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbo10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbo10.tfm
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/estimates-bland-1.pdf
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/estimates-bland-1.pdf
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/estimates-bland-1.pdf
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/operation-ci-1.pdf
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/operation-ci-1.pdf
-INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/operation-ci-1.pdf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmsso12.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/ot1lmr.fd
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/ot1lmr.fd
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmcsc10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtt12.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmsso12.tfm
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/estimates-bland-1.pdf
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/estimates-bland-1.pdf
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/estimates-bland-1.pdf
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/operation-ci-1.pdf
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/operation-ci-1.pdf
+INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/operation-ci-1.pdf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbx10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmib10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmib7.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmbsy10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmbsy7.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtk10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtk10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbo10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmssbo10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmss8.tfm
 INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/logo_uni_graz_4c.jpg
 INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/img/logo_uni_graz_4c.jpg
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtk10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtk10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtk10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtt12.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmtt12.tfm
 INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 OUTPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/poster.nav
 OUTPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/poster.toc
@@ -549,20 +523,17 @@ INPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustrat
 OUTPUT /Users/btree-mac/Dropbox/Apps/Overleaf/2020 WS Poster Scientific Illustration/poster.run.xml
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rmsc.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbsy10.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi12.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmib10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss12.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss17.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso12.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso17.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmtt12.pfb
