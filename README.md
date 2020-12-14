@@ -13,3 +13,5 @@ Content may change as at the time of the homework the topic presented in the pos
 ## Licence
 
 CC-BY-SA-4.0
+
+img/mite_inat.jpg - (c) dava123 fromiNaturalist.org
