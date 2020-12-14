@@ -1,15 +1,12 @@
 
 \ProvidesPackage{beamerthemeCustom} 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \RequirePackage{tangocolors}
 \selectcolormodel{cmyk}
 \mode<presentation>
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \setbeamercolor{headline}{fg=ta3orange,bg=black}
 \setbeamercolor{footline}{fg=ta3orange, bg=black}
-\setbeamerfont{footline}{size=\large}
+\setbeamerfont{footline}{size=\small}
 \setbeamercolor{separation line}{bg=ta3orange}
 \setbeamercolor{title in headline}{fg=ta3orange}
 \setbeamercolor{author in headline}{fg=taaluminium}
@@ -22,12 +19,10 @@
 \setbeamercolor*{normal text}{fg=tachameleon, bg=ta3gray}
 \setbeamercolor*{block body}{bg=white,fg=black}
 \setbeamercolor*{block title}{fg=taaluminium,bg=ta3orange}
-\setbeamerfont{block title}{size=\large,series=\bf}
+\setbeamerfont{block title}{size=\LARGE}
+\setbeamerfont{block body}{size=\large}
 \setbeamercolor{upper separation line head}{fg=ta2aluminium}
 
-\setbeamercolor*{example body}{fg=ta3aluminium,bg=black}
-\setbeamercolor*{example text}{fg=ta3aluminium,bg=black}
-\setbeamercolor*{example title}{bg=taaluminium,fg=ta2gray}
 
 \setbeamercolor{alerted text}{fg=ta3gray}
 
@@ -35,10 +30,12 @@
 \setbeamercolor{structure}{fg=ta3aluminium}
 
 \setbeamertemplate{itemize items}[triangle]
+
 \setbeamertemplate{navigation symbols}{}  % no navigation on a poster
 
 %% Biblio Styles
 \renewcommand*{\bibfont}{\scriptsize}
+
 \setbeamertemplate{bibliography item}{\insertbiblabel}
 \setbeamercolor{bibliography entry author}{fg=taaluminium}
 \setbeamercolor{bibliography entry title}{fg=taaluminium} 
@@ -46,6 +43,7 @@
 \setbeamercolor{bibliography entry note}{fg=taaluminium}  
 
 \setbeamercolor{caption name}{fg=ta2gray}
+\setbeamerfont{caption}{size=\normalsize}
 \setbeamercolor{caption}{fg=ta2gray}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -55,8 +53,8 @@
 \setbeamertemplate{block begin}{
   \vspace{10pt}
   \vskip.75ex
-  \begin{beamercolorbox}[rounded=false,shadow=false,leftskip=1cm,colsep*=.75ex]{block title}%
-    \usebeamerfont*{block title}\insertblocktitle
+  \begin{beamercolorbox}[rounded=false,shadow=false,leftskip=1cm, colsep*=.89ex, ht = 80pt]{block title}%
+    \usebeamerfont*{block title}\textbf{\insertblocktitle}
   \end{beamercolorbox}%
   \usebeamerfont{block body}%
   %\par\vspace{10pt}
@@ -74,7 +72,7 @@
 
   \begin{beamercolorbox}[wd=\paperwidth]{headline}
     \begin{columns}[T]
-      \begin{column}{.02\paperwidth}
+      \begin{column}{.002\paperwidth}
       \end{column}
       %\begin{column}{.07\paperwidth}
       %  \begin{center}
@@ -82,23 +80,23 @@
       %  \end{center}
       %  \vskip1ex
       %\end{column}
-      \begin{column}{.675\paperwidth}
+      \begin{column}{.715\paperwidth}
         \vskip4ex
         \raggedright
-        \usebeamercolor{title in headline}{\color{fg}\textbf{\Huge{\inserttitle}}\\[1ex]}
+        \usebeamercolor{title in headline}{\color{fg}\textbf{\huge{\inserttitle}}\\[1ex]}
         \usebeamercolor{author in headline}{\color{fg}\huge{\insertauthor}}, \hspace{1cm}
         \usebeamercolor{institute in headline}{\color{fg}\large{\insertinstitute}\\[1ex]}     
       \end{column}
-      \begin{column}{.25\paperwidth}
+      \begin{column}{.24\paperwidth}
         \vskip2ex
         \raggedleft
         \insertlogo
         \vskip1ex
       \end{column}
-      %\begin{column}{.03\paperwidth}
-      %\end{column}
+      \begin{column}{.002\paperwidth}
+      \end{column}
     \end{columns}
-            \vspace{2ex}
+    \vspace{2ex}
   \end{beamercolorbox}
 
   \begin{beamercolorbox}[wd=\paperwidth]{lower separation line head}
@@ -113,7 +111,8 @@
   
   \leavevmode%
   \begin{beamercolorbox}[ht=4ex,leftskip=1cm,rightskip=1cm]{author in head/foot}%
-    \LaTeX{} - Beamer Poster, Open Source: \url{https://github.com/HannesOberreiter/2020-kfu-scientific-illustration-poster}
+    \LaTeX{} - 
+    Open Source Poster: \url{https://github.com/HannesOberreiter/2020-kfu-scientific-illustration-poster}
     \hfill
     \texttt{\insertshortauthor}
     \vskip1ex
